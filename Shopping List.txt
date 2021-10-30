@@ -6,3 +6,5 @@ Banana
 Cereal
 Pancakes
 Butter
+Radishes
+Cucumber
